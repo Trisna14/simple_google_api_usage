@@ -1,0 +1,8 @@
+[
+    {
+    "url"   :   "https://www.googleapis.com/youtube/v3/channels?",
+    "key_string"   :   "AIzaSyCX2FZdrCPbQ24t8Ah6eTPF69xXOPFgmIM",
+    "part_string"  :   "snippet,status",
+    "id"    :   "UCJFeg4cV7kM4QsECKcx_eEA"
+    }
+]
